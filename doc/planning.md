@@ -22,16 +22,29 @@ Présentation du sujet et de son développement :
 - Matériel   
 
 Température de l'air et pression.
-Transmission de données
+Traitement des données de température et de pression.
+Transmission de données  
+Affichage de la température et de la pression 
 
 
 ### Pour mi-février
-Analyse du taux de pH
+Analyse du taux de pH   
 Prise en main du matériel pour ajout de pH+ ou pH-
 
+
 ### Pour fin février 
-Traitement des données
-Ajustement précis du pH 
-Affichage des données
+Traitement des données du pH   
+Température de l'eau + Traitement des données
+Ajustement précis du pH     
+Affichage des données du pH et de la température de l'eau
+
+
+### Pour mi-avril
+Analyse du taux de chlore  
+Prise en main du matériel pour ajout de chlore   
+Traitement des données du chlore  
+Ajustement précis du chlore    
+Affichage des données du chlore
+
 
 
