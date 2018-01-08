@@ -51,7 +51,7 @@ Inscription
 Retranscription du compte rendu de la séance 1   
 
 ### Mise en place d'un planning 
-Voir fichier /doc/planning.md
+Voir fichier [Planning.md](https://github.com/Marine13/StationPiscinologique/blob/master/doc/planning.md)
 
 ### Liste de matériel
-Voir fichier /doc/Liste de Courses
+Voir fichier [ListeDeCourses](https://github.com/Marine13/StationPiscinologique/blob/master/doc/ListeDeCourses.md)
