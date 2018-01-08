@@ -18,3 +18,4 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
 
   1. Découverte et prise en main du site github
   2. Création du planning du projet
+  3. Pour la séance prochaine : chercher le matériel nécessaire pour ajuster le pH (et le chlore) et trouver un moyen de modéliser la piscine
