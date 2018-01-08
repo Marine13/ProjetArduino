@@ -20,4 +20,6 @@ Doseur pour le pH et le chlore (à charcher)
 
 Matériel pour régler le niveau d'eau (à chercher)
 
-Mesure de la température dans l'eau (à chercher)
+## Mesure de la température dans l'eau 
+![Température eau](https://www.ebay.fr/itm/272896383022)
+https://www.ebay.fr/itm/272896383022
