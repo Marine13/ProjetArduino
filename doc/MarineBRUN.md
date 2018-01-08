@@ -52,3 +52,6 @@ Retranscription du compte rendu de la séance 1
 
 ### Mise en place d'un planning 
 Voir fichier /doc/planning.md
+
+### Liste de matériel
+Voir fichier /doc/Liste de Courses
