@@ -13,6 +13,7 @@ Recherche du matériel nécessaire
 Choix du matériel nécessaire    
 Préparation de la présentation  
 Prise en main des premiers éléments disponibles (capteur de température, de pression).
+Niveau d'eau
 
 ### 22/12/2018 : Séance 4
 Présentation du sujet et de son développement :     
@@ -21,7 +22,7 @@ Présentation du sujet et de son développement :
 - Matériel   
 
 Température de l'air et pression.
-Niveau d'eau
+Transmission de données
 
 
 ### Pour mi-février
