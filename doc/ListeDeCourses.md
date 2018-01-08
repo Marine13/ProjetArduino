@@ -12,7 +12,8 @@
 ### Lien pour l'achat : https://www.ebay.fr/itm/191559794166
 ![Sonde ORP](http://clement.storck.me/blog/wp-content/uploads/2014/08/piscine_sonde_orp.jpg)
 
-## Bassine pour simuler la piscine (à faire au fab lab et en plexiglas ?)
+## Bassine pour simuler la piscine (jerrican 35L avec robinet ?)
+### Lien pour l'achat : http://www.castorama.fr/store/Jerrican-alimentaire-35-L--robinet-prod8980013.html
 ![Bassine](http://www.cntt.fr/images/produit/bac%2090l%20alimentaire%20%201%20ref%2091900.JPG)
 
 
