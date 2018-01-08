@@ -26,6 +26,8 @@ Traitement des données de température et de pression.
 Transmission de données     
 Affichage de la température et de la pression     
 
+### Pour début février 
+Choix et achat du matériel pour maquette
 
 ### Pour mi-février
 Analyse du taux de pH       
