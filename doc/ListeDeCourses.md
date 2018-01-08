@@ -14,7 +14,7 @@
 
 ## Bassine pour simuler la piscine (jerrican 35L avec robinet ?)
 ### Lien pour l'achat : http://www.castorama.fr/store/Jerrican-alimentaire-35-L--robinet-prod8980013.html
-![Bassine](http://www.cntt.fr/images/produit/bac%2090l%20alimentaire%20%201%20ref%2091900.JPG)
+![Bassine](https://i2.cdscdn.com/pdt2/9/6/0/1/700x700/auc3086960009960/rw/jerrycan-extra-fort-avec-robinet-eau-propre-5-litr.jpg)
 
 
 ## Mesure de la température dans l'eau 
