@@ -29,6 +29,8 @@ Analyse du taux de pH
 Prise en main du matériel pour ajout de pH+ ou pH-
 
 ### Pour fin février 
-
+Traitement des données
+Ajustement précis du pH 
+Affichage des données
 
 
