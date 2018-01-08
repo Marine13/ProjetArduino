@@ -13,3 +13,8 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
   5.	Problèmes posés en fin de séance :
 •	Comment mesurer le niveau d’eau ?
 •	Comment fournir les bonnes quantités de produit à la piscine ?
+
+## Séance du 08/01/18
+
+  1. Découverte et prise en main du site github
+  2. Création du planning du projet
