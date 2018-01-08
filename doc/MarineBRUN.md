@@ -31,10 +31,10 @@ Mesure de pression - baromètre (information sur le temps).
 
 ### Répartition des taches au sein du binôme
 #### Amélie :
-Ajustement pH ; Ajustement chlore ; Traitement des données pH ; Traitement des données chlore ; Niveau d’eau  
+Ajustement pH ; Ajustement chlore ; Affichage des données ; Traitement des données chlore ; Niveau d’eau  
 
 #### Marine :
-Analyse pH ; Analyse chlore ; Affichage des données ; Température eau ; Température air ; Mesure de pression 
+Analyse pH ; Analyse chlore ; Traitement des données pH ; Température eau ; Température air ; Mesure de pression 
 
 ### Recherche des différents capteurs possibles pour les mesures de chlore et de pH
 - Pour le pH --> pH mètre
