@@ -19,3 +19,8 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
   1. Découverte et prise en main du site github
   2. Création du planning du projet
   3. Pour la séance prochaine : chercher le matériel nécessaire pour ajuster le pH (et le chlore) et trouver un moyen de modéliser la piscine
+
+## Séance du 15/01/18
+
+  1. Recherche du'une solution pour régler le niveau d'eau : Deux solutions sont à étudier : d'un côté on pourrait recréer une chasse d'eau mais ça risque de prendre de la place lorsqu'on remodélisera la piscine mais celà reste la solution la plus simple ; d'un autre côté on pourrait utiliser le même système que celui des pistolets de pompe à essence qui utilise l'effet Venturi, ça risque d'être plus difficile à reproduire mais ça reste la solution la moins encombrante.
+  
