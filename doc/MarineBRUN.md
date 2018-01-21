@@ -55,3 +55,13 @@ Voir fichier [Planning.md](https://github.com/Marine13/StationPiscinologique/blo
 
 ### Liste de matériel
 Voir fichier [ListeDeCourses](https://github.com/Marine13/StationPiscinologique/blob/master/doc/ListeDeCourses.md)
+
+
+
+## Séance 3 - Le 15 janvier 2018
+
+### Présentation semaine 4 
+J'ai commencé le diaporama de la présentation.
+
+### Prise en main capteur température
+J'ai rechercner le fonctionnement du capteur DHT11, j'ai trouvé un code déjà fait que j'ai testé, le code fonctionne mais les mesures de la température semblement incohérentes. 
