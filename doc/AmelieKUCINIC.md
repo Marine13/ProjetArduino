@@ -33,4 +33,4 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
   3. Idée de système de régulation du chlore/pH : On met les produits sous forme de solutions et on doserait avec le même systeme qu'un doseur de bar.
   4. Prise en main de la sonde de température de l'eau par Marine
   5. Un "problème" se pose : il faut un système de pompage pour la piscine (on pense qu'un pompage manuel suffira)
-  6. 
+  6. Pour la prochaine séance : préparer le système de flotteur pour régler au plus vite le problème de niveau d'eau et essayer de préparer la communication entre le téléphonne et l'arduino. Idée : utiliser le module bluetooth et communiquer via l'application BlueTooth Serial Controller.
