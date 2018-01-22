@@ -69,5 +69,5 @@ J'ai rechercner le fonctionnement du capteur DHT11, j'ai trouvé un code déjà 
 
 ## Séance 4 - Le 22 janvuer 2018
 
-Code pour le capteur de température étanche : *fini*.
+Code pour le capteur de température étanche : *fini*.   
 Recherche de nouveaux codes pour le capteur de température/humidité (le DTH11) : *en cours*.
