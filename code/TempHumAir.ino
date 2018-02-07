@@ -1,11 +1,11 @@
 /**
- * Exemple de code pour la lecture d'un capteur DHT11 ou DHT22.
+ * Exemple de code pour la lecture d'un capteur DHT11
  */
 
 /** Broche "DATA" du capteur */
 const byte BROCHE_CAPTEUR = 5;
 
-/* Code d'erreur de la fonction readDHT11() et readDHT22() */
+/* Code d'erreur de la fonction readDHT11()*/
 const byte DHT_SUCCESS = 0;        // Pas d'erreur
 const byte DHT_TIMEOUT_ERROR = 1;  // Temps d'attente dépassé
 const byte DHT_CHECKSUM_ERROR = 2; // Données reçues erronées
@@ -15,7 +15,6 @@ void setup() {
  
   /* Initialisation du port série */
   Serial.begin(9600);
-  Serial.println(F("Demo DHT11 et DHT22"));
   
   /* Place la broche du capteur en entrée avec pull-up */
   pinMode(BROCHE_CAPTEUR, INPUT_PULLUP);
@@ -26,7 +25,6 @@ void loop() {
   float temperature, humidity;
  
   /* Lecture de la température et de l'humidité, avec gestion des erreurs */
-  // N.B. Remplacer readDHT11 par readDHT22 en fonction du capteur utilisé !
   switch (readDHT11(BROCHE_CAPTEUR, &temperature, &humidity)) {
   case DHT_SUCCESS: 
      
