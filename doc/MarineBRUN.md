@@ -67,7 +67,15 @@ J'ai commencé le diaporama de la présentation.
 J'ai rechercner le fonctionnement du capteur DHT11, j'ai trouvé un code déjà fait que j'ai testé, le code fonctionne mais les mesures de la température semblement incohérentes. 
 
 
-## Séance 4 - Le 22 janvuer 2018
+## Séance 4 - Le 22 janvier 2018
 
 Code pour le capteur de température étanche : *fini*.   
 Recherche de nouveaux codes pour le capteur de température/humidité (le DTH11) : *en cours*.
+
+
+## Séance 5 - Le 07 février 2018
+
+Code fonctionnel pour le capteur de température/humidité.
+Code fonctionnel pour le pHmètre.
+Recherche de code et fonctionnement pour le barometre. 
+
