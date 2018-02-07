@@ -34,3 +34,8 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
   4. Prise en main de la sonde de température de l'eau par Marine
   5. Un "problème" se pose : il faut un système de pompage pour la piscine (on pense qu'un pompage manuel suffira)
   6. Pour la prochaine séance : préparer le système de flotteur pour régler au plus vite le problème de niveau d'eau et essayer de préparer la communication entre le téléphonne et l'arduino. Idée : utiliser le module bluetooth et communiquer via l'application BlueTooth Serial Controller.
+
+## Séance du 07/02/18
+
+  1. Tentative de communication entre l'arduino et le téléphonne. Seul le sens téléphonne-arduino fonctionne. Il faut corriger le problème.
+  2. On s'est mises d'accord sur le jour où on allait tenter de fabriquer la piscine au fab lab. Elle sera normalement prête pour la prochaine séance.
