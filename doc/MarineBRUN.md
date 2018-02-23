@@ -79,3 +79,7 @@ Code fonctionnel pour le capteur de température/humidité.
 Code fonctionnel pour le pHmètre.
 Recherche de code et fonctionnement pour le barometre. 
 
+## Séance 6 - Le 21 février 2018
+
+Code pour le barometre réalisé mais bug sur la pression donnée.
+Réalisation d'une maquette en carton pour la piscine. 
