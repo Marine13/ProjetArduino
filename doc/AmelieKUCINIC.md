@@ -40,9 +40,13 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
   1. Tentative de communication entre l'arduino et le téléphonne. Seul le sens téléphonne-arduino fonctionne. Il faut corriger le problème.
   2. On s'est mises d'accord sur le jour où on allait tenter de fabriquer la piscine au fab lab. Elle sera normalement prête pour la prochaine séance.
 
-
 ## Séance du 21/02/18
   1. La communication avec le bluetooth fonctionne, il ne reste qu'à écrire le programme en entier
   2. Réception de l'interrupteur avec flotteur, du moteur qui permettra le dosage avec sa puce
   3. Détermination d'un jour pour fabriquer la piscine
   4. Pour la prochaine séance : arriver à faire fonctionner le moteur et le capteur de niveau
+
+## Séance du 21/03/18
+  1. Essai non concluant d'utiliser le moteur
+  2. Travail à partir de la maquette de la piscine
+  3. 
