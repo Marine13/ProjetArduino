@@ -83,3 +83,8 @@ Recherche de code et fonctionnement pour le barometre.
 
 Code pour le barometre réalisé mais bug sur la pression donnée.
 Réalisation d'une maquette en carton pour la piscine. 
+
+## Séance 7 - Le 21 février 2018
+
+Ajustement du prototype carton pour la maquette de la piscine avant rendez-vous au FabLab pour sa conception. 
+Début de la mise en place de l'application bluetooth avec *Bluetooth Electronics* essaie de transmission de données téléphone <--> console arduino et premières idées de son design. 
