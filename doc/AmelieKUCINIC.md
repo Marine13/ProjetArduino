@@ -50,3 +50,7 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
   1. Essai non concluant d'utiliser le moteur
   2. Travail à partir de la maquette de la piscine
   3. 
+  
+## Séance du 28/03/18
+  1. Le moteur fonctionne mais pas comme on le voudrait. J'ai essayé de me baser sur le code de ceux qui, l'année dernière, avaient utilisé ce moteur mais je ne comprends pas pourquoi ça ne marche pas, j'ai aussi essayé de demander l'aide de mes camarades qui utilisent ce moteur mais je n'ai pas trouvé la sotution. à voir donc pour la prochaine séance.
+  2. Le rendez-vous a été pris cette fois-ci c'est la bonne, on fabrique notre piscine demain
