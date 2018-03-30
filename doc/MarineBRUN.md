@@ -88,3 +88,11 @@ Réalisation d'une maquette en carton pour la piscine.
 
 Ajustement du prototype carton pour la maquette de la piscine avant rendez-vous au FabLab pour sa conception. 
 Début de la mise en place de l'application bluetooth avec *Bluetooth Electronics* essaie de transmission de données téléphone <--> console arduino et premières idées de son design. 
+
+## Séance 8 - Le 28 mars 2018
+
+Avancé de l'application bluetooth, transmission du taux de pH et voyant d'avertissement en cas de mauvais taux de pH. 
+
+## Le 29 mars 2018 
+
+Rendez vous au FabLab, création d'un module de support pour les différents capteurs, il faut maintenant acheter un recipiant qui représentera la piscine, auquel le module sera fixé. 
