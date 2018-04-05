@@ -96,3 +96,9 @@ Avancé de l'application bluetooth, transmission du taux de pH et voyant d'avert
 ## Le 29 mars 2018 
 
 Rendez vous au FabLab, création d'un module de support pour les différents capteurs, il faut maintenant acheter un recipiant qui représentera la piscine, auquel le module sera fixé. 
+
+## Séance 9 - Le 05 avril 2018
+
+Dessin de la maquette de la piscine 
+Avancé bluetooth
+Présentation 2
