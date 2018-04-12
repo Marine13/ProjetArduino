@@ -102,3 +102,6 @@ Rendez vous au FabLab, création d'un module de support pour les différents cap
 Dessin de la maquette de la piscine 
 Avancé bluetooth
 Présentation 2
+
+## Séance 10 - Le 10 avril 2018
+
