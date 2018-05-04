@@ -105,3 +105,13 @@ Présentation 2
 
 ## Séance 10 - Le 10 avril 2018
 
+Avancé du bluetooth 
+Changement du modèle de maquette 
+
+## Le 15 avril 2018
+
+Réalisation d'une première maquette en plastique souple 
+
+## Séance 11 - Le 04 mai 2018
+
+
