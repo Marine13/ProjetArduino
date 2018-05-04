@@ -53,4 +53,12 @@ Marine s'occupe de la mesure du pH, de l'Affichage des données et de la tempér
   
 ## Séance du 28/03/18
   1. Le moteur fonctionne mais pas comme on le voudrait. J'ai essayé de me baser sur le code de ceux qui, l'année dernière, avaient utilisé ce moteur mais je ne comprends pas pourquoi ça ne marche pas, j'ai aussi essayé de demander l'aide de mes camarades qui utilisent ce moteur mais je n'ai pas trouvé la sotution. à voir donc pour la prochaine séance.
-  2. Le rendez-vous a été pris cette fois-ci c'est la bonne, on fabrique notre piscine demain
+  2. Le rendez-vous a été pris cette fois-ci, on fabrique notre piscine demain
+
+## Séance du 05/04/18
+  1. Présentation du projet
+  2. On n'a toujours pas notre piscine en plexiglass
+  
+## Séance du 10/04/18
+  1. Le moteur fonctionne
+  2. On doit faire une maquette en P.V.C. pour notre piscine à donner ensuite à M. Masson pour qu'il nous la fasse en plexiglass.
